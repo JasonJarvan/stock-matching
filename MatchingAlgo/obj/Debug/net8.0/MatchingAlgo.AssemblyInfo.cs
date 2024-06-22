@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MatchingAlgo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6bf5fd7650ccbb7197050e09ff5390d1c0a3d4e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("MatchingAlgo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MatchingAlgo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
